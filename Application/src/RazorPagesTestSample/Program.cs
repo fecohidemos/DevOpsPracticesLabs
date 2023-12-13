@@ -8,6 +8,7 @@ using RazorPagesTestSample.Data;
 
 namespace RazorPagesTestSample
 {
+    // test action after a change
     public class Program
     {
         public static void Main(string[] args)
