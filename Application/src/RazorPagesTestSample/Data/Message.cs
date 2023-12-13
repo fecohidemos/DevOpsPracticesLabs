@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace RazorPagesTestSample.Data
 {
-    #region snippet1
+    #region snippet1 - action 
     public class Message
     {
         public int Id { get; set; }
